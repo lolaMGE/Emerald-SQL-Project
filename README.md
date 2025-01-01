@@ -1,6 +1,11 @@
 # Emerald-SQL-Project
 These are SQL queries written to provide actionable insights and recommendations to enhance organizational performance and foster a positive work environment.
 
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Recommendations](#recommendation)
 
 ### Descriptive and Diagnostic Analysis Using SQL on Employee Performance & Attrition Analysis 
 
